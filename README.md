@@ -25,5 +25,5 @@ region_id INT(3) , country_names varchar(25) not null
 
 ALTER TABLE regions ADD region_names varchar(25) not null;
 
-#Author
+# Author
 Kailash Nirmal
